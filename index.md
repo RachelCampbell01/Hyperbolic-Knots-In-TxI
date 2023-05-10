@@ -5,6 +5,7 @@
   
 <p><a href="https://rachelcampbell01.github.io/Hyperbolic-Knots-In-TxI/FullList">Hyperbolic Links In TxI Corresponding To Knots In TxI (Up to 14 crossings)</a></p>
 <p><a href="https://rachelcampbell01.github.io/Hyperbolic-Knots-In-TxI/FullIsometricLinkList">Hyperbolic Knots In TxI With Isometric Link Complements Grouped Together</a></p>
+<p><a href="https://rachelcampbell01.github.io/Hyperbolic-Knots-In-TxI/AsManifolds">Manifolds That Are The Complement of a Knot In TxI</a></p>
 
 </body>
 </html>
