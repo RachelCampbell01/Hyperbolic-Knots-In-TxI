@@ -5,6 +5,7 @@
     
 <table border="1" class="dataframe" style="text-align: right;">
   <thead>
+    <tr>
       <th></th>
       <th>Link Name</th>
       <th>No. Crossings</th>
