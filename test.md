@@ -3,12 +3,11 @@
     
 <h1>Hyperbolic Knots In TxI Derived From Links Up To 14 Crossings</h1>
     
-<table border="1" class="dataframe">
+<table border="1" class="dataframe" style="text-align: right;">
   <thead>
-    <tr style="text-align: right;">
       <th></th>
-      <th>LinkName</th>
-      <th>No.Crossings</th>
+      <th>Link Name</th>
+      <th>No. Crossings</th>
       <th>Volume</th>
     </tr>
   </thead>
