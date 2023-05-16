@@ -6,7 +6,7 @@
 
 <h1> <u> Table of Knots in TxI </u> </h1>
 
-<p> The table on this page shows the 18565 links corresponding to knots in TxI found, using the link names from the <a href="http://katlas.org/wiki/The_Thistlethwaite_Link_Table"> Thistlethwaite link table</a>. It also shows each link's crossing number, and whether or not <a href="https://snappy.math.uic.edu/index.html#"> SnapPy</a> determined it to be hyperbolic. </p>
+<p> The table on this page shows the 18565 links corresponding to knots in TxI found, using the link names from the <a href="http://katlas.org/wiki/The_Thistlethwaite_Link_Table">Thistlethwaite link table</a>. It also shows each link's crossing number, and whether or not <a href="https://snappy.math.uic.edu/index.html#">SnapPy</a> determined it to be hyperbolic. </p>
 
 <h2> <u> Filter results by </u> </h2>
     
@@ -111442,7 +111442,7 @@
                   if (!filter2 || td[1].innerHTML === filter2) {
                     if (!filter3 || parseFloat(td[1].innerHTML) >= parseFloat(filter3)) {
                       if (!filter4 || parseFloat(td[1].innerHTML) <= parseFloat(filter4)) {
-                        if (!filter5 || td[0].innerHTML.toUpperCase().indexOf(filter5) > -1) {
+                        if (!filter5 || td[2].innerHTML.toUpperCase().indexOf(filter5) > -1) {
                           found = true;
                         }
                       }
